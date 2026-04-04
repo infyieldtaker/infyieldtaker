@@ -43,7 +43,7 @@
 
 ### 🚀 Tech Stack Matrix
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,nodejs,html,css,github,linux,git" />
+  <img src="https://skillicons.dev/icons?i=py,js,tsx,nodejs,html,css,github,linux,git" />
 </p>
 
 ---
