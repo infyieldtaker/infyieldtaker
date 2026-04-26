@@ -1,6 +1,6 @@
 # <p align="center">👋 Hello, I'm Carter!</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=435&lines=Owner+of+DCI+Studios;Founder+of+DCI+Studios;16+Year+Old+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=777BB4&center=true&vCenter=true&width=435&lines=Contributor+of+Orbit;Founder+of+DCI+Studios;16+Year+Old+Developer" alt="Typing SVG" />
 </p>
 
 ---
